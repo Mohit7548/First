@@ -1,1 +1,1 @@
-# First
+# Exploring GitHub with my first ever Repository
